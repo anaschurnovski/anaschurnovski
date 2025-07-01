@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação `** 
 
-Me chamo Ana Julia Schurnovski e tenho 21 anos.
+Eu me chamo Ana Julia Schurnovski e tenho 21 anos.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e dados. 
 
