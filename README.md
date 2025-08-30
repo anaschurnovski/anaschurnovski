@@ -1,4 +1,4 @@
-# Ana Schurnovski 💻
+# Hi, I'm Ana Julia Schurnovski 👋🏼
 
 **`Desenvolvedora em formação `** 
 
