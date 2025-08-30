@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ana Julia Schurnovski! </h1>
 
-<p> ADS | Desenvolvedora em formação | Análise de Dados </p>
+<p> Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação | Análise de Dados </p>
 
 ---
 
