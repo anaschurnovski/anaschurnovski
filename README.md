@@ -1,17 +1,18 @@
-# Hi, I'm Ana Julia Schurnovski 👋🏼
+<h1 align="center">Hi, I'm Ana Julia Schurnovski! </h1>
 
-**`Desenvolvedora em formação `** 
+<p> ADS | Desenvolvedora em formação | Análise de Dados </p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e dados. 
-
-Busco entender como a tecnologia funciona na área de dados e como posso usá-la para resolver problemas.
-
-
-   
 ---
 
-### 🎲 Linguagens e Tecnologias 
+###  👩‍💻 Sobre mim
+-  Atualmente estudando **Análise e Desenvolvimento de Sistemas**.
+-  Interesse em **Dados**.
+-  Aprendendo e compartilhando projetos.
+-  Em constante aprendizado.
 
+---
+
+### 🎲 Tecnologias & Ferramentas
 <img 
     align="left" 
     alt="HTML"
@@ -30,6 +31,14 @@ Busco entender como a tecnologia funciona na área de dados e como posso usá-la
 />
 <img 
     align="left" 
+    alt="JAVASCRIPT"
+    title="JAVASCRIPT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -38,8 +47,8 @@ Busco entender como a tecnologia funciona na área de dados e como posso usá-la
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="MYSQL" 
+    title="MYSQL"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
@@ -51,7 +60,11 @@ Busco entender como a tecnologia funciona na área de dados e como posso usá-la
 
 ---
 
-### Conecte-se comigo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anajschurnovski)
--
-Em constante aprendizado. 🖱️
+### 📊 Estatísticas
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical" height="160"/>
+
+---
+
+### 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anajschurnovski) 
