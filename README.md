@@ -32,7 +32,7 @@
 <img 
     align="left" 
     alt="JAVASCRIPT"
-    title="JAVASCRIPT" 
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
@@ -48,7 +48,7 @@
 <img 
     align="left" 
     alt="MYSQL" 
-    title="MYSQL"
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
