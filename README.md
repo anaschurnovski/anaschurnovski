@@ -8,7 +8,6 @@
 -  Atualmente estudando **Análise e Desenvolvimento de Sistemas**.
 -  Interesse em **Dados**.
 -  Aprendendo e compartilhando projetos.
--  Em constante aprendizado.
 
 ---
 
@@ -54,6 +53,24 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
     />
 
+<img 
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    
+<img 
+    align="left" 
+    alt="Databricks" 
+    title="Databricks" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/databricks" 
+    />
+
 <br/>
 <br/>
 
@@ -61,7 +78,11 @@
 
 ### 📊 Estatísticas
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical" height="160"/>
+  <img 
+  height="180em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"
+/>
+
 
 ---
 
