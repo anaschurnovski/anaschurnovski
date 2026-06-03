@@ -78,11 +78,13 @@
 
 ### 📊 Estatísticas
 
-  <img 
-  height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"
-/>
+<div align="left">
 
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anaschurnovski&layout=compact&theme=radical"/>
+
+</div>
 
 ---
 
