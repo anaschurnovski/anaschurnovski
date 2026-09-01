@@ -96,9 +96,8 @@
 
 <div align="left">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaschurnovski&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats-re-5f81.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats-re-5f81.vercel.app/api/top-langs/?username=anaschurnovski&layout=compact&theme=radical"/>
 
 </div>
 
