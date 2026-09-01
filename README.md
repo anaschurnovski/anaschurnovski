@@ -94,13 +94,16 @@
 
 ### 📊 Estatísticas
 
-<div align="left">
-
+<table>
+<tr>
+<td valign="top">
 <img height="170em" src="https://github-readme-stats-re-5f81.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats-re-5f81.vercel.app/api/top-langs/?username=anaschurnovski&layout=compact&theme=radical"/>
-
-</div>
+</td>
+<td valign="top">
+<img height="170em" src="https://github-readme-stats-re-5f81.vercel.app/api/top-langs/?username=anaschurnovski&layout=compact&theme=radical&card_width=380"/>
+</td>
+</tr>
+</table>
 
 ---
 
