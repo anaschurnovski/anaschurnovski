@@ -1,14 +1,13 @@
-<h1 align="center">Hi, I'm Ana Julia Schurnovski! </h1>
-
-<p> Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação | Análise de Dados </p>
+<h1 align="center">Hi, I'm Ana Julia Schurnovski! 👋</h1>
+<p align="center">Data & Software Development Intern | Análise e Desenvolvimento de Sistemas</p>
 
 ---
-
-###  👩‍💻 Sobre mim
--  Atualmente estudando **Análise e Desenvolvimento de Sistemas**.
--  Interesse em **Dados**.
--  Aprendendo e compartilhando projetos.
-
+ 
+### 👩🏻‍💻 Sobre mim
+-  Estudante de **Análise e Desenvolvimento de Sistemas**
+-  Atuo com **Dados** — uso Databricks e PostgreSQL no dia a dia
+- Desenvolvimento com **React** e **Java**
+-  Sempre aprendendo e compartilhando projetos pessoais e da faculdade
 ---
 
 ### 🎲 Tecnologias & Ferramentas
@@ -97,9 +96,9 @@
 
 <div align="left">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anaschurnovski&show_icons=true&theme=radical"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anaschurnovski&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaschurnovski&layout=compact&theme=radical"/>
 
 </div>
 
